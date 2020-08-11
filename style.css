@@ -696,6 +696,7 @@ body {
         height: 350px;
         align-self: center;
         padding: 100px 0 0 0;
+        text-align: center;
       }
       .three h2 {
           color: hsl(271, 36%, 24%);
@@ -705,7 +706,8 @@ body {
       .three p {
          color: hsl(270, 7%, 64%);
          font-size: 16px;
-         padding: 0 20px 0 0; 
+         width: 310px;
+         padding: 0; 
          line-height: 0.8cm;
          text-align: center;
       }
