@@ -692,23 +692,24 @@ body {
 
     .three {
         grid-row: 5/-1;
-        grid-column: 2/9;
+        grid-column: 1/-1;
         height: 350px;
         align-self: center;
         padding: 100px 0 0 0;
         text-align: center;
         position: unset;
+        justify-self: center;
       }
       .three h2 {
           color: hsl(271, 36%, 24%);
-          font-size: 35px;
+          font-size: 40px;
           font-weight: 500;
+          padding: 0 0 0 30px;
       }
       .three p {
          color: hsl(270, 7%, 64%);
          font-size: 16px;
-         width: 310px;
-         padding: 0 0 0 32px; 
+         width: 310px; 
          line-height: 0.8cm;
          text-align: center;
       }
