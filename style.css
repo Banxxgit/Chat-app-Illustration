@@ -678,7 +678,7 @@ body {
           position: relative;
           bottom: 5px;
       }
-      .message p button {
+      .button {
           background-color: hsl(271, 36%, 24%);
           width: 30px;
           height: 30px;
